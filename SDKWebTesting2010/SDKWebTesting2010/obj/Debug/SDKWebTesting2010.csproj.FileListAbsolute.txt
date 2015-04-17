@@ -1,0 +1,6 @@
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\bin\SDKWebTesting2010.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\bin\SDKWebTesting2010.pdb
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\bin\Newtonsoft.Json.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\obj\Debug\SDKWebTesting2010.csprojResolveAssemblyReference.cache
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\obj\Debug\SDKWebTesting2010.dll
+c:\users\duration 1729\documents\visual studio 2010\Projects\SDKWebTesting2010\SDKWebTesting2010\obj\Debug\SDKWebTesting2010.pdb
